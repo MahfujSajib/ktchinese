@@ -1,0 +1,99 @@
+.oneoneheading {
+    color: #2E3238;
+    margin-left: 500px;
+    margin-top: 120px;
+    font-size: 35px;
+}
+
+.containerone {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 25px;
+}
+
+/* 
+.img2 {
+    position: absolute;
+    width: 472px;
+    height: 283px;
+    left: 50%;
+} */
+
+.img2 {
+    margin-left: 40px;
+}
+
+.tutor-name {
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+}
+
+.purchasebtn {
+    background-color: #29a877;
+    border-color: rgba(37, 93, 173, 0.25);
+    color: #fff;
+    box-shadow: 0 4px 10px rgb(41 168 119 / 35%);
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.time {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+}
+
+.classtime {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #f1f2f36b;
+    background-color: #F1F2F3;
+    border-radius: 5px;
+    width: 600px;
+    height: 150px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.timing {
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    margin-top: 20px;
+}
+
+.clock {
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+.users {
+    font-size: 30px;
+    margin-left: 12px;
+}
+
+.learner {
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    margin-top: 30px;
+}
+
+.purchasebtn2 {
+    background-color: #29a877;
+    border-color: rgba(37, 93, 173, 0.25);
+    color: #fff;
+    box-shadow: 0 4px 10px rgb(41 168 119 / 35%);
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 50px;
+}

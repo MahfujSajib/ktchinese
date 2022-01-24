@@ -1,0 +1,25 @@
+.button {
+    background-color: #29a877;
+    border-color: rgba(37, 93, 173, 0.25);
+    color: #fff;
+    box-shadow: 0 4px 10px rgb(41 168 119 / 35%);
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.classessearch {
+    margin: auto 30%;
+    width: 500px;
+    height: 40px;
+    margin-top: 40px;
+    border: 2px solid rgb(216, 210, 210);
+    background-color: #FFFFFF;
+}
+
+.searchclassesbtn {
+    position: absolute;
+    right: 880px;
+    top: 155px;
+}

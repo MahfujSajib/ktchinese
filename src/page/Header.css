@@ -1,0 +1,18 @@
+.navlink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    font-size: 22px;
+}
+
+.navlink:hover {
+    color: #29a877;
+}
+
+.navbar {
+    background-color: #FCFDFD;
+}
+
+.navbar-ul {
+    margin-left: 400px;
+}

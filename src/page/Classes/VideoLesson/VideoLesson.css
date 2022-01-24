@@ -1,0 +1,99 @@
+.div-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    border: 1px solid #f1f2f36b;
+    height: 300px;
+    background-color: #F1F2F3;
+}
+
+.video-topic {
+    background-color: #FFFFFF;
+    box-shadow: 9px 10px #F1F2F3;
+    width: 340px;
+    height: 630px;
+    margin-left: 200px;
+}
+
+.videolessons {
+    margin-left: 300px;
+    margin-top: -270px;
+}
+
+.ratings {
+    display: flex;
+}
+
+.created {
+    display: flex;
+}
+
+.cart {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+.addtocart {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    margin-left: 30px;
+}
+
+.addtocartbtn {
+    background-color: #8710D8;
+    border-color: #8710D8;
+    color: #fff;
+    box-shadow: 0 4px 10px #210d2e00;
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.purchasenowbtn {
+    background-color: #29a877;
+    border-color: rgba(37, 93, 173, 0.25);
+    color: #fff;
+    box-shadow: 0 4px 10px rgb(41 168 119 / 35%);
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 35px;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.videoincludes {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.allincludes {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.learning {
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 500px;
+    left: 190px;
+    border: 2px solid rgba(0, 0, 0, 0.164);
+    width: 700px;
+    height: 275px;
+}
+
+.outcomes {
+    display: flex;
+    align-items: center;
+}
+
+.learingoutcome {
+    display: flex;
+    align-items: center;
+}
